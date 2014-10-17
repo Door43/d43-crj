@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[crj:home|Door43 (crj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-crj|d43-crj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-crj/archive/master.zip|d43-crj.zip]]
+
+**Recent Changes**
+{{changes>ns = crj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/crj|Ethnologue data]]
+
